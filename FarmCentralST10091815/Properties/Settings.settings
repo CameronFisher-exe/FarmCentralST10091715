@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FarmCentralST10091815.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FarmCentDB" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="C:\Varsity Course Work\BCAD3\PROG7311\POE\Cameron Fisher ST10081715 Task 2\Visual Studio\FarmCentralST10091815\FarmCentralST10091815\App_Data\FarmCentralDB.mdf";Integrated Security=True&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="C:\Varsity Course Work\BCAD3\PROG7311\POE\Cameron Fisher ST10081715 Task 2\Visual Studio\FarmCentralST10091815\FarmCentralST10091815\App_Data\FarmCentralDB.mdf";Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
